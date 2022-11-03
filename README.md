@@ -9,7 +9,7 @@ This is a solution to the [Stats preview card component](https://www.frontendmen
 ### Links
 
 - Solution URL: [Click here](https://www.frontendmentor.io/solutions/stats-review-card-with-css-grid-a78-10_G4)
-- Live Site URL: [Click here](https://iosebkhe.github.io/stats-preview-card/)
+- Live Site URL: [Click here](https://statspreview-iosebkhe.netlify.app/)
 
 - Semantic HTML5 markup
 - CSS custom properties
